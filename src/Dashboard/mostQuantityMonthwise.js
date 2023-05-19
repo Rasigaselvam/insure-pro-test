@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from "react";
 import { storeData } from "../helper/data";
-import ReactApexChart from "react-apexcharts";
 import CardContent from '@mui/material/CardContent';
 import Card from '@mui/material/Card';
 import { TableContainer, TableHead, Table, TableBody,TableCell, TableRow, Paper } from "@mui/material";

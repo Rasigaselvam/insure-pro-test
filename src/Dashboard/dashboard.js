@@ -1,8 +1,4 @@
-import React, { useEffect, useState } from "react";
-import { storeData } from "../helper/data";
-import ReactApexChart from "react-apexcharts";
-import CardContent from '@mui/material/CardContent';
-import Card from '@mui/material/Card';
+import React from "react";
 import { Grid, Paper } from "@mui/material";
 import SalesForMonthwise from "./salesForMonthwise";
 import "./dashboard.css";
