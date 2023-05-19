@@ -1,0 +1,29 @@
+@media(min-width:480px){
+    .h-250 .MuiPaper-root .MuiPaper-root{
+      height: 250px;
+      scrollbar-color: #1976d22b #fff;
+      scrollbar-width: thin;
+    }
+    .h-300 .MuiPaper-root .MuiPaper-root{
+      height: 300px;
+      scrollbar-color: #1976d22b #fff;
+      scrollbar-width: thin;
+    }
+    .h-400 .MuiPaper-root .MuiPaper-root,.ht-400 .MuiPaper-root .MuiPaper-root{
+      height: 400px;   
+      
+    }
+  }
+  @media(max-width:1439px){
+    .desk-100{
+      flex-grow: 0;
+      max-width: 100% !important;
+      flex-basis: 100% !important;
+    } 
+  }
+  .m-b-10{
+    margin-bottom: 1%;
+  }
+  .p-10{
+    padding: 10px;
+  }
